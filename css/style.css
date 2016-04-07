@@ -237,9 +237,9 @@ a:hover{
 	margin-top: 2px;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1300px) {
   .intro{
-	margin-top: 100px;
+	margin-top: 50px;
    }
    .logo-top img{
    	width: 120px;
