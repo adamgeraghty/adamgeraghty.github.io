@@ -238,8 +238,8 @@ a:hover{
 }
 
 @media (max-width: 1000px) {
-  .intro{
-	margin-top: 50px;
+  .intro .spacer-50{
+	display:none;
    }
    .logo-top img{
    	width: 120px;
