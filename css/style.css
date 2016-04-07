@@ -237,7 +237,7 @@ a:hover{
 	margin-top: 2px;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1200px) {
   .intro{
 	margin-top: 50px;
    }
