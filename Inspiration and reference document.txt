@@ -10,3 +10,6 @@ http://charleshaggas.com/ -
 
 This website is where i drew inspiration on the formatting of the projects section, and the about me section with regards to the text layout and my skills.
 
+
+Site is available online at http://adamgeraghty.github.io/
+
