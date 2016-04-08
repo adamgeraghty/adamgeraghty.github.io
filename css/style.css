@@ -41,6 +41,10 @@ a:hover{
 	color:#f24b4b;
 }
 
+h3 a{
+	color: #f1c202b;
+}
+
 #title{
 	font-style: italic;
 	font-weight: 300;
