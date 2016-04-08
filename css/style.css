@@ -193,14 +193,18 @@ h3 a{
 }
 .project-subtitle{
 	font-size: 16px;
-	color:gray;/***************************************** NEED PROPER COLOR ********************************************/
+	color:#79878c;/***************************************** NEED PROPER COLOR ********************************************/
 	font-weight: 600;
 	text-transform: uppercase;
 }
 .project-content{
 	font-size: 16px;
-	color:gray;
+	color:#1c202b;
 	font-weight: 400;/*300*/
+}
+.github{
+	font-size: 16px;
+	color:#79878c;
 }
 .large-image{
 	margin-top: -200px;
