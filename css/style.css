@@ -246,7 +246,8 @@ a:hover{
    }
    
 }
-@media (min-device-width: 310px)  {
-  	.logo-top img: display:none;
-
+@media (min-device-width: 650px)  {
+	#head{
+		height: 100%;
+	}
 }
