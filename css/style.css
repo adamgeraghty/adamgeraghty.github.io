@@ -246,7 +246,7 @@ a:hover{
    }
    
 }
-@media (min-device-width: 650px)  {
+@media (max-width: 500px)  {
 	#head{
 		height: 100%;
 	}
