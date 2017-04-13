@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, p, li{
 }
 .gitsec{
 	float:left;
+	width:40%;
 }
 .intro{
 	margin-top: 100px;
@@ -208,6 +209,7 @@ h3 a{
 .github{
 	font-size: 16px;
 	color:#79878c;
+	width:40%;
 }
 .large-image{
 	margin-top: -180px;
