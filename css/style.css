@@ -197,7 +197,7 @@ h3 a{
 }
 .project-subtitle{
 	font-size: 16px;
-	color:#79878c;/***************************************** NEED PROPER COLOR ********************************************/
+	color:#79878c;
 	font-weight: 600;
 	text-transform: uppercase;
 }
@@ -237,6 +237,10 @@ h3 a{
 	font-weight: 600;
 }
 .about-text{
+	font-size: 13px;
+	text-align: center;
+}
+.email-text{
 	font-size: 16px;
 	text-align: center;
 }
